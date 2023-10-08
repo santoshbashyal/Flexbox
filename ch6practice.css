@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: black;
+    color: white;
+}
+ul{
+    padding: 10px;
+}
+li{
+    list-style: none;
+    padding: 0 10px;
+    display: inline;
+    /* float: right; */
+}
+.left{
+    background-color: lightgreen;
+    height: 80vh;
+    width: 50vw;
+    float: left;
+
+}
+ 
+.right{
+    background-color: aqua;
+    height: 80vh;
+    width: 50vw;
+    float: right;
+}
+
